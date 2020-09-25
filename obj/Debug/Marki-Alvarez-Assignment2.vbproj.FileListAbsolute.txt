@@ -1,0 +1,12 @@
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki-Alvarez-Assignment2.vbprojAssemblyReference.cache
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki_Alvarez_Assignment2.Form1.resources
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki_Alvarez_Assignment2.Resources.resources
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki-Alvarez-Assignment2.vbproj.GenerateResource.cache
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki-Alvarez-Assignment2.vbproj.CoreCompileInputs.cache
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\bin\Debug\Marki-Alvarez-Assignment2.exe.config
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\bin\Debug\Marki-Alvarez-Assignment2.exe
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\bin\Debug\Marki-Alvarez-Assignment2.pdb
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\bin\Debug\Marki-Alvarez-Assignment2.xml
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki-Alvarez-Assignment2.exe
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki-Alvarez-Assignment2.xml
+C:\Users\MALVAREZ2\OneDrive - Kforce, Inc\CS 15\VB\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\Marki-Alvarez-Assignment2\obj\Debug\Marki-Alvarez-Assignment2.pdb
